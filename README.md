@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hipe-0
+- 👋 Hi, I’m Hippo
 - 👀 I’m interested in computers, coding DIY electronics, create and invent stuff, video games, music composition, drones, AI
 - 🌱 I’m currently learning github, arduino, python
 - 💞️ I’m looking to share my projects and make possible connections with the community
